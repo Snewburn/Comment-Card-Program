@@ -1,0 +1,30 @@
+********************************************************************
+Program Name:  	Old Town Comment Card Vresion 2.0
+Creator: 	Spencer B. Newburn, copyright 01-28-2016
+
+********************************************************************
+
+INSTALATION INSTRUCTIONS
+
+Step 1) --- COPY SYSTEM FOLDER TO HOST DESKTOP --- 
+	Copy Folder "CommentCardSytem" onto the DESKTOP of the Computer 
+	to be used as Comment Collector Kiosk. 
+
+Step 2) --- TRANSFER REQUIRED FONT FILES ---
+	Open "CommentCardSystem" folder and oepn "fonts" folder. 
+	These are the required fonts for both programs. 
+	Copy the contents of the 'fonts' folder into the fonts folder
+	of the host computer....this is in the conrol panel>>>language/personalization
+
+Step 3) --- TEST RUN EACH PROGRAM ---
+	To run the Comment Card program or the Comment Portal program:
+	there are 2 .exe files in the "CommentCardSystem" folder. They have identical icons with a "B"
+	one is titled CommentCard.exe and the other CommentPortal.exe
+	These run each program respectively. 
+
+Step 4)	--- CREATE SHORCUT ICONS ---
+	Leaving the CommentCardSystem folder on the desktop, Short-cut icons 
+	should be created from CommentCard.exe and CommentPortal.exe and placed on the desktop
+
+Step 5) --- SET PDF PRINTER AS DEFAULT
+	if you dont have a pdf printer, there is an installation packet for Bullzip pdf printer

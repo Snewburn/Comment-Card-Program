@@ -1,0 +1,112 @@
+
+
+Error log timestamp Tuesday 06/07/16 03:06:27 PM
+
+Runtime error: Division by zero
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'Division by zero'> 
+BasicRunProgram(Object)>>error: <'Division by zero'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <aZeroDivide> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aZeroDivide> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aZeroDivide> 
+ExceptionHandler>>findHandler: <aZeroDivide> 
+ZeroDivide(Exception)>>activateHandler: <anExceptionHandler> 
+ZeroDivide(Exception)>>handle
+ZeroDivide(Exception)>>signal
+ZeroDivide class>>dividend: <0> 
+SmallInteger(Number)>>zeroDivisor
+SmallInteger>>//
+SmallInteger(Integer)>>/
+[] in BasicExpression>>makeBlockOf:
+BasicDoubleParameterContextHolder>>value
+[] in BasicExpression>>makeBlockOf:
+BasicDoubleParameterContextHolder>>value
+BasicNumericContext(BasicContextWrapper)>>value
+[] in BasicInt class>>using:program:
+BasicVariableAssigner>>value
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+BasicRunProgram>>begin
+BasicRunProgram(BasicProgram)>>beginIfStopped
+BasicRunProgram(BasicProgram)>>beginFunction: <'BarGraph'> 
+BasicRunProgram(BasicProgram)>>breakCallbackForSubName: <'BarGraph'> arguments: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>callbackForSubName: <'BarGraph'> arguments: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>handlerName: <'BarGraph'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>submitHandlerName: <'BarGraph'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>submitHandlerName: <'BarGraph'> callParameters: <anOrderedCollection> 
+LibDrawnButton>>click
+BasicWindow>>click: <aLibDrawnButton> 
+LibDrawnButton(Button)>>click: <aLibDrawnButton> 
+Message>>perform
+Message>>evaluate
+LibDrawnButton(Object)>>triggerEvent: <#clicked> 
+
+
+Error log timestamp Saturday 07/30/16 03:46:08 PM
+
+Runtime error: Division by zero
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'Division by zero'> 
+BasicRunProgram(Object)>>error: <'Division by zero'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <aZeroDivide> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aZeroDivide> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aZeroDivide> 
+ExceptionHandler>>findHandler: <aZeroDivide> 
+ZeroDivide(Exception)>>activateHandler: <anExceptionHandler> 
+ZeroDivide(Exception)>>handle
+ZeroDivide(Exception)>>signal
+ZeroDivide class>>dividend: <0> 
+SmallInteger(Number)>>zeroDivisor
+SmallInteger>>//
+SmallInteger(Integer)>>/
+[] in BasicExpression>>makeBlockOf:
+BasicDoubleParameterContextHolder>>value
+[] in BasicExpression>>makeBlockOf:
+BasicDoubleParameterContextHolder>>value
+BasicNumericContext(BasicContextWrapper)>>value
+[] in BasicInt class>>using:program:
+BasicVariableAssigner>>value
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+BasicRunProgram>>begin
+BasicRunProgram(BasicProgram)>>beginIfStopped
+BasicRunProgram(BasicProgram)>>beginFunction: <'BarGraph'> 
+BasicRunProgram(BasicProgram)>>breakCallbackForSubName: <'BarGraph'> arguments: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>callbackForSubName: <'BarGraph'> arguments: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>handlerName: <'BarGraph'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>submitHandlerName: <'BarGraph'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicRunProgram(BasicProgram)>>submitHandlerName: <'BarGraph'> callParameters: <anOrderedCollection> 
+LibDrawnButton>>click
+BasicWindow>>click: <aLibDrawnButton> 
+LibDrawnButton(Button)>>click: <aLibDrawnButton> 
+Message>>perform
+Message>>evaluate
+LibDrawnButton(Object)>>triggerEvent: <#clicked> 
